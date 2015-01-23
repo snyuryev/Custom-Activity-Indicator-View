@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D016B414-4671-49B9-8652-9E049B25812E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomActivityIndicatorViewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08A28BC2EA6E2A8352371BD81FBBECDE82CF4F3C</key>
+		<string>https://github.com/snyuryev/Custom-Activity-Indicator-View.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomActivityIndicatorViewTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08A28BC2EA6E2A8352371BD81FBBECDE82CF4F3C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/snyuryev/Custom-Activity-Indicator-View.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08A28BC2EA6E2A8352371BD81FBBECDE82CF4F3C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08A28BC2EA6E2A8352371BD81FBBECDE82CF4F3C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Custom-Activity-Indicator-View</string>
+		</dict>
+	</array>
+</dict>
+</plist>
