@@ -23,3 +23,5 @@ To stop animation call:
 ```
 activityIndicator.stopAnimating()
 ```
+
+![Alt text](https://www.dropbox.com/s/f7iqdwppufh29iu/loading_screenshot.png?dl=0 "Loading indicator")
