@@ -1,3 +1,7 @@
+# This repo is outdated. Please use a new one with CocoaPod
+
+https://cocoapods.org/pods/SYActivityIndicatorView
+
 # Custom Activity Indicator View (swift, iOS)
 
 Custom Activity Indicator View an element that provides user feedback on the progress of a task or process with an unknown duration. As long as the task or process continues, the activity indicator spins. A user does not interact with an activity indicator. It is very similar with UIActivityIndicatorView but uses custom image. Custom Activity Indicator View is subclass of UIView. 
